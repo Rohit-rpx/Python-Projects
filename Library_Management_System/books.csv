@@ -1,0 +1,48 @@
+isbn,title,authors,quantity,published date
+1802262490,Python Programming,'John Brown',1,2021-04-12
+9781449302757,Programming Python,'Mark Lutz',10,2010-12-14
+9781449357351,Python Cookbook,"'David Beazley', 'Brian K. Jones'",7,2013-05-10
+9781838828813,Python GUI Programming Cookbook,'Burkhard Meier',6,2019-10-11
+9781430206354,Foundations of Agile Python Development,'Jeff Younker',1,2009-06-18
+9781449355715,Learning Python,'Mark Lutz',7,2013-06-12
+1802262016,Python and HTML Programming,'John Brown',6,2021-04-10
+9781789342765,Learning Python for Forensics,"'Preston Miller', 'Chapin Bryce'",8,2019-01-31  
+9781430202301,Pro XML Development with Java Technology,'Ajay Vohra',1,2007-02-01
+9781456613846,Core Java Programming,'Jitendra Patel',2,2013-03-10
+9781284250480,Java Illuminated,"'Julie A. Anderson', 'Hervé J. Franceschi'",6,2022-11
+9781284140996,Java Illuminated,"'Anderson', 'Hervé Franceschi'",4,2018-01-15
+0763716677,Java 5 Illuminated,"'Julie Anderson', 'Hervé Franceschi'",10,2005
+9781118058190,Java Programming 24-Hour Trainer,'Yakov Fain',7,2011-10-12
+9780596551063,Java SOA Cookbook,'Eben Hewitt',4,2009-03-17
+8131729346,Programming In C: A Practical Approach,'Ajay Mittal',6,2010-09
+9780672331411,Programming in C,'Stephen G. Kochan',2,2004-07-08
+0763718173,A Complete Guide to Programming in C++,"'Ulla Kirch-Prinz', 'Peter Prinz'",5,2002
+1520811055,C++ Programming Language,'Sherwyn Allibang',10,2017-03-18
+9780133053036,C++ Primer,"'Stanley B. Lippman', 'Josée Lajoie', 'Barbara E. Moo'",10,2012-08-06  
+9781788837958,Hands-On Design Patterns with C++,'Fedor G. Pikus',3,2019-01-30
+9781838988364,The The C++ Workshop,"'Dale Green', 'Kurt Guntheroth', 'Shaun Ross Mitchell'",4,2020-02-07
+9781484230572,Practical C++ Design,'Adam B. Singer',2,2017-09-27
+9781524694463,Javascript Concepts,'Mohammed Ashequr Rahman',9,2017-06-16
+9781430246305,JavaScript Programmer's Reference,"'Thomas Valentine', 'Jonathan Reid'",6,2013-06-26
+9780768685527,Pure JavaScript,"'Jason D. Gilliam', 'R. Allen Wyke', 'Charlton Ting', 'Sean Michaels'",5,2001-08-15
+9780557667161,JavaScript Essentials,'Neil Smyth',7,2010-09-09
+9780596510084,HTML & XHTML,"'Chuck Musciano', 'Bill Kennedy'",4,2006-10-08
+9780429782961,R Markdown,"'Yihui Xie', 'J.J. Allaire', 'Garrett Grolemund'",2,2018-07-27
+9781461313519,HTML and the Art of Authoring for the World Wide Web,'Bebo White',5,2012-12-06   
+9780596527402,Dynamic HTML,'Danny Goodman',7,2007-06-26
+9781449324506,Head First HTML and CSS,"'Elisabeth Robson', 'Eric Freeman'",5,2012-08-16
+9384588148,Modern Operating Systems,"'Shriram K. Vasudevan', 'Subashri Vasudevan', 'Sunandhini Muralidharan', 'Kaushik Velusamy'",3,2015-04-30
+9789386369703,Database Management System,"'Monelli  Ayyavaraiah', 'Arepalli Gopi'",6,2017-01-01
+9788121932455,Database Management System (DBMS)A Practical Approach,'Rajiv Chopra',9,2010-01-01
+9780764595745,Beginning Regular Expressions,'Andrew Watt',7,2005-02-08
+9783642338991,Reflections on the History of Computing,'Arthur Tatnall',8,2012-11-28
+0135408008,Computer Networks,"'Andrew S. Tanenbaum', 'Nickolas Feamster'",3,2019-02
+9783030344962,Computer Networks and the Internet,'Gerry Howser',3,2019-12-23
+9788120332003,COMPUTER ORGANIZATION AND ARCHITECTURE,"'V. RAJARAMAN', 'T. RADHAKRISHNAN'",6,2007-06-01
+8177589938,Computer Organization & Architecture 7e,'Stallings',8,2008-02
+9781284033151,Essentials of Computer Organization and Architecture,"'Linda Null', 'Julia Lobur'",2,2014-02-17
+9780387215662,Fundamentals of Computer Organization and Design,'Sivarama P. Dandamudi',5,2006-05-31
+9781301441617,100+ SQL Queries Jet SQL for Microsoft Office Access,'I.F.S. Harrison',5,2012-12-15
+9780132715126,Sams Teach Yourself SQL in 24 Hours,"'Ryan Stephens', 'Ron Plew', 'Arie D. Jones'",1,2008-05-30
+9781937842246,SQL Database Programming (Fifth Edition),'Chris Fehily',9,2020-01-31
+9781449378936,SQL in a Nutshell,"'Kevin Kline', 'Brand Hunt', 'Daniel Kline'",1,2004-09-24  
